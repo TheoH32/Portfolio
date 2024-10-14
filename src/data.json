@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "logo": "Theo Huntalas",
+    "links": [
+      {
+        "title": "email me",
+        "url": "mailto:theo.h131@gmail.com"
+      }
+    ]
+  },
+
+  "intro": {
+    "heading": "Languages: Java, Python, Swift, SQL, Javascript<br><br>Other: AWS, Docker, Postman"
+  },
+   
+  "portrait": {
+    "image": "/portrait.png"
+  },
+
+  "about": {
+    "text": "I’m a computer science student with strong programming fundamentals looking for a software engineering internship. My technical background includes Object-Oriented Programming, algorithms, data structures, and databases using SQL. I want to work in software engineering so I can use my creative technical skills to benefit people all over the world.",
+    "icon": "/icons/about-icon.svg"
+  },
+
+  "contact": {
+    "label": "Want to see more?",
+    "heading": "View my resume",
+    "linkIcon": "/icons/arrow-icon.svg",
+    "email": "hello@rauftech.com"
+  },
+
+  "work": {
+    "projects": [
+      {
+        "title": "My Github",
+        "url": "https://github.com/TheoH32",
+        "media": "/github.png"
+      },
+      {
+        "title": "Codemaxxers (Java, SQL, Javascript)",
+        "url": "",
+        "media": "/work.png"
+
+      },
+      {
+        "title": "Stocktify (Python, Java, SQL, Javascript)",
+        "url": "",
+        "media": "/work.png"
+
+      },
+      {
+        "title": "Darty (Swift, Firebase, Java)",
+        "url": "",
+        "media": "/work.png"
+
+      }
+    ],
+    "linkIcon": "/icons/arrow-icon-black.svg"
+  },
+
+ 
+  "socials": {
+    "links": [
+      {
+        "title": "Handshake",
+        "url": "https://osu.joinhandshake.com/profiles/59063090"
+      },
+      {
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/theodore-huntalas-487a2b279/"
+      },
+      {
+        "title": "Github",
+        "url": "https://github.com/abdulrauf11"
+      }
+    ]
+  }
+}
